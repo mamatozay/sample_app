@@ -152,6 +152,14 @@ div.field, div.actions {
   color: #fff;
 }
 
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 /* Error message */
 
 #error_explanation {
